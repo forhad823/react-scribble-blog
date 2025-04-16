@@ -1,4 +1,4 @@
-# live site link: scribble-blog-forhad.netlify.app
+# live site link: https://scribble-blog-forhad.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
